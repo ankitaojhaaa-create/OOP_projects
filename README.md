@@ -1,7 +1,7 @@
 # OOP_projects
 
 # F1 Championship Manager
-A Java-based Formula 1 Championship Management System.
+A Java-based system that tracks drivers, teams, race results, points, wins, and podium finishes.
 
 # Hostel Fine Management System
 A Java-based system that allows students to view fines and wardens to issue fines.
